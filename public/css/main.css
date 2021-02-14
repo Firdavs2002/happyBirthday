@@ -21,7 +21,7 @@ h1 {
 
 #intro {
     color: #fff;
-    background: #323232 url('/public/img/giphy.gif');
+    background: #323232 url('../../public/img/giphy.gif');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
@@ -46,7 +46,7 @@ h1 {
 }
 
 #birthday {
-    background: #1a508b url('/public/img/wp2504235.jpg');
+    background: #1a508b url('../../public/img/wp2504235.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
