@@ -35,6 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 typeSpeed: 100,
                 backSpeed: 25,
                 startDelay: 29600,
+                showCursor: false,
             });
             observer.unobserve(document.querySelector('#end-text'))
         }
